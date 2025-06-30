@@ -1,1 +1,1 @@
-async function loadAndInitApp(){try{const d=document.createElement("div");d.id="waardecheck-widget",document.body.appendChild(d),await import("./assets/main-BGd6HRTq.js")}catch(d){console.error("Widget Loader: Failed to load the application module.",d)}}loadAndInitApp();
+async function loadAndInitApp(){try{const d=document.createElement("div");d.id="waardecheck-widget",document.body.appendChild(d),await import("./assets/main-DMZ_7Sm8.js")}catch(d){console.error("Widget Loader: Failed to load the application module.",d)}}loadAndInitApp();
